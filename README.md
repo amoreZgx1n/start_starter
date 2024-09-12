@@ -16,4 +16,5 @@ resources ->META-INF->spring.factories  #SpringBoot 2.7废止，SpringBoot3全�
 resources -> META-INF -> spring -> org.springframework。boot.autoconfigure.Autoconfiguration.imports
 
 最后记得将starter安装到本地仓库
+
 将jar包注册到中心仓库
